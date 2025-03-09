@@ -1,5 +1,8 @@
 # Bike Sharing - Dashboard Analytics
-
+## Dapat langsung mengakses lnk pada url.text
+```
+https://submisii-task-rasyid.streamlit.app/
+```
 ## Panduan Penggunaan Streamlit di Local - Shell/Terminal
 ```
 git clone https://github.com/habibarrsyd/Submissions_Habib_Fabri_Arrosyid.git
