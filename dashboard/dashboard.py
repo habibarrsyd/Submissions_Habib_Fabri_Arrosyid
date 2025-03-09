@@ -5,8 +5,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load dataset (sesuaikan lokasi dataset jika perlu)
-df_hour = pd.read_csv("../data/hour.csv")  
-df_day = pd.read_csv("../data/day.csv")
+df_hour = pd.read_csv("data/hour.csv")  
+df_day = pd.read_csv("data/day.csv")
 
 # Mapping musim dan kondisi cuaca
 season_mapping = {1: "Semi", 2: "Panas", 3: "Gugur", 4: "Dingin"}
